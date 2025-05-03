@@ -1,0 +1,19 @@
+img {
+  width: 300px;
+}
+
+body {
+  background-color: rgba(133, 133, 124, 0.762);
+}
+
+.rock {
+  color: rgb(255, 169, 64);
+}
+
+.paper {
+  color: rgb(255, 169, 64);
+}
+
+.sciccors {
+  color: rgb(255, 169, 64);
+}
